@@ -1,1 +1,0 @@
-This is my Readme page from my IMED 1316 - Web Design I
